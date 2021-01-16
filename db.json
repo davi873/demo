@@ -1,11 +1,11 @@
 {
-  "documento":{
+  "documento":[{
     "numDoc": 5506,
     "emissao":"10/01/21",
     "vencimento":"20/01/21",
     "status":"pendente",
     "pagamento":"19/01/21"
-  }
+  }]
   
   
 }
