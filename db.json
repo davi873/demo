@@ -24,5 +24,11 @@
     "etapa":"Validação fiscal",
     "prazoEtapa":"23/01/20",
     "prazoSolicitacao":"27/01/20"
+  },{
+    "id": 2021001,
+    "tipo":"Processo",
+    "etapa":"Aprovação",
+    "prazoEtapa":"25/01/20",
+    "prazoSolicitacao":"30/01/20"
   }]
 }
