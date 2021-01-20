@@ -17,7 +17,14 @@
     "vencimento":"16/01/21",
     "status":"efetuado",
     "pagamento":"15/01/21"
-  }]
+  }],
   
+  solicitacao:[{
+    numero:2020119,
+    tipo:"GED",
+    etapa:"Validação fiscal",
+    prazoEtapa:"23/01/20",
+    prazoSolicitacao:"27/01/20"
+  }]
   
 }
