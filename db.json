@@ -19,7 +19,7 @@
     "pagamento":"15/01/21"
   }],
   
-  solicitacao:[{
+  "solicitacao":[{
     "numero":2020119,
     "tipo":"GED",
     "etapa":"Validação fiscal",
