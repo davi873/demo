@@ -18,7 +18,6 @@
     "status":"efetuado",
     "pagamento":"15/01/21"
   }],
-  
   "solicitacao":[{
     "id": 2020119,
     "tipo":"GED",
@@ -26,5 +25,4 @@
     "prazoEtapa":"23/01/20",
     "prazoSolicitacao":"27/01/20"
   }]
-  
 }
