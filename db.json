@@ -20,11 +20,11 @@
   }],
   
   solicitacao:[{
-    numero:2020119,
-    tipo:"GED",
-    etapa:"Validação fiscal",
-    prazoEtapa:"23/01/20",
-    prazoSolicitacao:"27/01/20"
+    "numero":2020119,
+    "tipo":"GED",
+    "etapa":"Validação fiscal",
+    "prazoEtapa":"23/01/20",
+    "prazoSolicitacao":"27/01/20"
   }]
   
 }
