@@ -47,6 +47,5 @@
     "id": "sao paulo",
     "nome":"Belo Horizonte",
     "clinicas":["NHO", "NeoOnco", "Nova vida"]
-  },
-]
+  }]
 }
