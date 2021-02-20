@@ -30,5 +30,23 @@
     "etapa":"Aprovação",
     "prazoEtapa":"25/01/20",
     "prazoSolicitacao":"30/01/20"
-  }]
+  }],
+  "cidade":[{
+    "id": "bh",
+    "nome":"Belo Horizonte",
+    "clinicas":["Oncocentro", "Oncovida", "Multhemo"]
+  },{
+    "id": "belo horizonte",
+    "nome":"Belo Horizonte",
+    "clinicas":["Oncocentro", "Oncovida", "Multhemo"]
+  },{
+    "id": "sp",
+    "nome":"Belo Horizonte",
+    "clinicas":["NHO", "NeoOnco", "Nova vida"]
+  },{
+    "id": "sao paulo",
+    "nome":"Belo Horizonte",
+    "clinicas":["NHO", "NeoOnco", "Nova vida"]
+  },
+]
 }
